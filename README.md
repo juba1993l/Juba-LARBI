@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst with a background in
 - 📫 **How to reach me:** [larbi.juba@outlook.com](mailto:larbi.juba@outlook.com)
 - 🌍 **Based in:** Lyon, France
 
-##Fun fact:
+## Fun fact:
 I’ve analyzed 38 million rows of flight data, combined it with weather patterns, and turned it into actionable insights for stakeholders—proving that even turbulence has a story to tell. ✈️
 
 Let’s connect and create something amazing with data! 🚀
